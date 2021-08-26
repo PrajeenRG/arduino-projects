@@ -4,6 +4,7 @@ Some of these projects will be as simple as connecting LEDs but thats significan
 
 ### Project List
 - Blinking LED
+- Traffic Lights
 
 ### How do I run the projects?
 Clone the repo to any directory and open the same. After doing all the necessary circuitry, open the project file
