@@ -7,6 +7,7 @@ Some of these projects will be as simple as connecting LEDs but thats significan
 - Traffic Lights
 - Controlling LED with button
 - Controlling LED with serial monitor
+- Breathing effect using LED
 
 ### How do I run the projects?
 Clone the repo to any directory and open the same. After doing all the necessary circuitry, open the project file
