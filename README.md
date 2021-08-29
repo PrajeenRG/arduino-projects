@@ -9,6 +9,7 @@ Some of these projects will be as simple as connecting LEDs but thats significan
 - Controlling LED with serial monitor
 - Breathing effect using LED
 - Flowing lights using LED
+- Hello World using LCD Display
 
 ### How do I run the projects?
 Clone the repo to any directory and open the same. After doing all the necessary circuitry, open the project file
