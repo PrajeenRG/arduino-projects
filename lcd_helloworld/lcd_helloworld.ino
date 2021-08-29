@@ -2,6 +2,7 @@
  * Hello World program with LCD screen
  * 
  * this is a simple program that displays hello world on the lcd screen.
+ *
  */
 
 #include <LiquidCrystal.h>
