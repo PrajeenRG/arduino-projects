@@ -14,7 +14,6 @@ const int D4_PIN = 8;
 const int ENABLE_PIN = 10;
 const int RS_PIN = 12;
 
-const int DELAY_IN_MS = 2000;
 const int NO_OF_COLS = 16;
 const int NO_OF_ROWS = 2;
 
