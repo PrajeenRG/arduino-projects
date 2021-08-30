@@ -21,8 +21,8 @@ const int DELAY_IN_MS = 1000;
 const int NO_OF_COLS = 16;
 const int NO_OF_ROWS = 2;
 
-volatile char input[NO_OF_COLS];
-volatile int current_row = 0;
+char input[NO_OF_COLS];
+int current_row = 0;
 
 LiquidCrystal lcd(RS_PIN, ENABLE_PIN, D4_PIN, D5_PIN, D6_PIN, D7_PIN);
 
