@@ -1,4 +1,4 @@
-# Arduino Beginner Projects
+# Arduino Projects
 Contains all the codes that I wrote to learn Arduino UNO as a beginner. 
 Some of these projects will be as simple as connecting LEDs but thats significant in the part of learning.
 
