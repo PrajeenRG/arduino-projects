@@ -14,6 +14,7 @@ Some of these projects will be as simple as connecting LEDs but thats significan
 - Displaying serial input on LCD Display
 - Looping through the characters supported by 7 segment display
 - Rotating servo motor in finite steps
+- Tracking the distance of an object using Ultrasonic Sensor
 
 ### How do I run the projects?
 Clone the repo to any directory and open the same. After doing all the necessary circuitry, open the project file
